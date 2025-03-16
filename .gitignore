@@ -1,2 +1,5 @@
-*.txt
+.genaiscript/
+.github/
 node_modules/
+txt/
+unused/
